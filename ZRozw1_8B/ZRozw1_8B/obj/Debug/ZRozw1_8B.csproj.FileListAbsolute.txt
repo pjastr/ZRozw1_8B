@@ -1,0 +1,5 @@
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_8B\ZRozw1_8B\bin\Debug\ZRozw1_8B.exe.config
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_8B\ZRozw1_8B\bin\Debug\ZRozw1_8B.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_8B\ZRozw1_8B\bin\Debug\ZRozw1_8B.pdb
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_8B\ZRozw1_8B\obj\Debug\ZRozw1_8B.exe
+c:\users\piotrek\documents\visual studio 2013\Projects\ZRozw1_8B\ZRozw1_8B\obj\Debug\ZRozw1_8B.pdb
